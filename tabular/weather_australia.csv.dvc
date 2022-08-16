@@ -2,3 +2,4 @@ outs:
 - md5: 91a5eae1b63a2fa66b3453c09f8c1210
   size: 14094056
   path: weather_australia.csv
+  desc: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
