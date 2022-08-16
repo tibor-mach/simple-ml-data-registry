@@ -1,8 +1,4 @@
-# pipelines, visualisations and monitoring
 dvc[s3]==2.18
-
-# programmatic access to remote storage
-boto3
 
 # various utilities
 pre-commit
