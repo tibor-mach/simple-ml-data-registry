@@ -28,4 +28,4 @@ repos:
     stages:
       - post-checkout
   repo: https://github.com/iterative/dvc
-  rev: 2.12.0
+  rev: 2.18.0
