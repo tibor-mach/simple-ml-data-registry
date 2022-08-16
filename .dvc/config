@@ -1,4 +1,4 @@
 [core]
-    remote = dataset-registry
-['remote "dataset-registry"']
-    url = s3://simple-ml-dataset-registry
+    remote = data-registry
+['remote "data-registry"']
+    url = s3://simple-ml-data-registry
